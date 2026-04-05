@@ -7,7 +7,7 @@ canonifyURLs = false
 contentDir = "content/en"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
-# Useful when translating.
+# Useful when translating
 enableMissingTranslationPlaceholders = true
 
 enableRobotsTXT = true
