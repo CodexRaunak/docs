@@ -90,13 +90,7 @@
  Maximum Number of Components
  &lt;a href="#maximum-number-of-components" class="heading-anchor" aria-label="Permalink to this heading"&gt;🔗&lt;/a&gt;
 &lt;/h3&gt;
-&lt;p&gt;Kanvas has a maximum limit of 1,000 components per design. If you exceed this limit, you may experience performance issues such as slow loading times and laggy interactions. To avoid hitting this limit, consider breaking your design into smaller, more manageable designs.&lt;/p&gt;</description></item><item><title>REST API</title><link>/cloud/reference/api-reference/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/cloud/reference/api-reference/</guid><description>&lt;p&gt;To create integrations, retrieve data, and automate your cloud native infrastructure, build with the Layer5 Cloud REST API.&lt;/p&gt;
-
-&lt;h2 id="authenticating-with-the-api" class="heading-link"&gt;
- Authenticating with the API
- &lt;a href="#authenticating-with-the-api" class="heading-anchor" aria-label="Permalink to this heading"&gt;🔗&lt;/a&gt;
-&lt;/h2&gt;
-&lt;p&gt;In order to authenticate to Layer5 Cloud&amp;rsquo;s REST API, you need to generate and use a &lt;a href="./cloud/security/tokens/"&gt;security token&lt;/a&gt;. Visit your &lt;a href="https://cloud.layer5.io/security/tokens"&gt;user account&amp;rsquo;s security tokens&lt;/a&gt; and generate a long-lived security token. Security tokens are without expiration date. You can generate as many tokens as you like. You can also revoke them at any time.&lt;/p&gt;</description></item><item><title>Setting up Layer5 Account</title><link>/cloud/getting-started/getting-started-with-layer5-account/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/cloud/getting-started/getting-started-with-layer5-account/</guid><description>&lt;p&gt;This guide will walk you through setting up your Layer5 account.&lt;/p&gt;
+&lt;p&gt;Kanvas has a maximum limit of 1,000 components per design. If you exceed this limit, you may experience performance issues such as slow loading times and laggy interactions. To avoid hitting this limit, consider breaking your design into smaller, more manageable designs.&lt;/p&gt;</description></item><item><title>REST API Reference</title><link>/cloud/reference/api-reference/rest/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/cloud/reference/api-reference/rest/</guid><description/></item><item><title>Setting up Layer5 Account</title><link>/cloud/getting-started/getting-started-with-layer5-account/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/cloud/getting-started/getting-started-with-layer5-account/</guid><description>&lt;p&gt;This guide will walk you through setting up your Layer5 account.&lt;/p&gt;
 
 &lt;h2 id="configuring-your-layer5-account" class="heading-link"&gt;
  Configuring your Layer5 account
@@ -64262,7 +64256,7 @@
 
 
 &lt;div class="md__image"&gt;
- &lt;img id="[245 360 103 236 390 62]" src="./images/overview.png" onclick="openModal(this.id)" alt="Example of Academy" 
+ &lt;img id="[169 259 372 451 90 330]" src="./images/overview.png" onclick="openModal(this.id)" alt="Example of Academy" 
  class="md-image-responsive" /&gt;
 &lt;/div&gt;&lt;/p&gt;</description></item><item><title>Integrating GitHub with Meshery</title><link>/cloud/getting-started/github-integration/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/cloud/getting-started/github-integration/</guid><description>&lt;h2 id="introduction" class="heading-link"&gt;
  Introduction
@@ -64280,7 +64274,7 @@
 
 
 &lt;div class="md__image"&gt;
- &lt;img id="[359 342 72 127 62 67]" src="./cloud/catalog/images/leaderboard-page.gif" onclick="openModal(this.id)" alt="Leaderboard page overview" 
+ &lt;img id="[329 379 72 258 492 349]" src="./cloud/catalog/images/leaderboard-page.gif" onclick="openModal(this.id)" alt="Leaderboard page overview" 
  class="md-image-responsive" /&gt;
 &lt;/div&gt;&lt;/p&gt;
 
@@ -64365,7 +64359,7 @@ Think of Designer mode as your blueprint studio. Just like architects use specif
 
 
 &lt;div class="md__image"&gt;
- &lt;img id="[419 95 177 325 397 75]" src="images/style-edge.gif" onclick="openModal(this.id)" alt="Examples of changing edge styles in Kanvas" 
+ &lt;img id="[71 350 154 187 91 329]" src="images/style-edge.gif" onclick="openModal(this.id)" alt="Examples of changing edge styles in Kanvas" 
  class="md-image-responsive" /&gt;
 &lt;/div&gt;&lt;/p&gt;
 
@@ -64406,7 +64400,7 @@ Think of Designer mode as your blueprint studio. Just like architects use specif
 
 
 &lt;div class="md__image"&gt;
- &lt;img id="[78 204 441 170 292 183]" src="./kanvas/getting-started/images/validating-designs/performing-validation-1.png" onclick="openModal(this.id)" alt="Navigate to Actions button" 
+ &lt;img id="[123 472 240 58 281 426]" src="./kanvas/getting-started/images/validating-designs/performing-validation-1.png" onclick="openModal(this.id)" alt="Navigate to Actions button" 
  class="md-image-responsive" /&gt;
 &lt;/div&gt;&lt;/p&gt;</description></item><item><title>Whiteboarding</title><link>/kanvas/tasks/whiteboarding/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/kanvas/tasks/whiteboarding/</guid><description>&lt;p&gt;With Kanvas Designer you can draw shapes, lines, text, add custom styles, images and icons to represent the components and relationships of your Kubernetes clusters as you see fit. Kanvas supports freestyle design, meaning that you can customize the appearance and layout of your diagrams without any constraints. Kanvas also enables real-time collaboration, meaning that you can invite others to join your sessions and edit the diagrams together.&lt;/p&gt;
 
@@ -64420,7 +64414,13 @@ Think of Designer mode as your blueprint studio. Just like architects use specif
  &lt;a href="#converting-shapes" class="heading-anchor" aria-label="Permalink to this heading"&gt;🔗&lt;/a&gt;
 &lt;/h2&gt;
 &lt;p&gt;Existing shapes can be converted to other shapes. For example, you can convert a rectangle to a circle, or a triangle to a rectangle. This is useful if you want to change the shape of a shape without losing its position, size, and formatting.
-If you&amp;rsquo;d rather use a different shape while keeping the same position, size, and formatting, you can change the shape.&lt;/p&gt;</description></item><item><title>Default Team Roles</title><link>/cloud/security/roles/team-roles/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/cloud/security/roles/team-roles/</guid><description>&lt;div class="td-card-group card-group p-0 mb-4"&gt;
+If you&amp;rsquo;d rather use a different shape while keeping the same position, size, and formatting, you can change the shape.&lt;/p&gt;</description></item><item><title>Creating Content for the Academy</title><link>/cloud/academy/creating-content/creating-your-learning-path/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/cloud/academy/creating-content/creating-your-learning-path/</guid><description>&lt;p&gt;This guide provides a step-by-step walkthrough for creating and organizing new content in the &lt;a href="https://cloud.layer5.io/academy"&gt;Layer5 Academy&lt;/a&gt;. You&amp;rsquo;ll learn how to set up your content repository, structure your content, add assets, preview your work, and publish it for your organization.&lt;/p&gt;
+
+&lt;h3 id="prerequisites" class="heading-link"&gt;
+ Prerequisites
+ &lt;a href="#prerequisites" class="heading-anchor" aria-label="Permalink to this heading"&gt;🔗&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;Before you dive into creating your first Academy content, it&amp;rsquo;s helpful to be familiar with the core technologies and concepts used by the Academy platform.&lt;/p&gt;</description></item><item><title>Default Team Roles</title><link>/cloud/security/roles/team-roles/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/cloud/security/roles/team-roles/</guid><description>&lt;div class="td-card-group card-group p-0 mb-4"&gt;
 &lt;div class="td-card card border me-4"&gt;
 &lt;div class="card-header"&gt;
  Default Team Roles
@@ -64521,7 +64521,7 @@ If you&amp;rsquo;d rather use a different shape while keeping the same position,
 
 
 &lt;div class="md__image"&gt;
- &lt;img id="[324 317 390 112 157 57]" src="./cloud/catalog/images/catalog-view.gif" onclick="openModal(this.id)" alt="Catalog main page view" 
+ &lt;img id="[234 18 171 344 65 351]" src="./cloud/catalog/images/catalog-view.gif" onclick="openModal(this.id)" alt="Catalog main page view" 
  class="md-image-responsive" /&gt;
 &lt;/div&gt;&lt;/p&gt;
 
@@ -64593,7 +64593,7 @@ If you&amp;rsquo;d rather use a different shape while keeping the same position,
 
 
 &lt;div class="md__image"&gt;
- &lt;img id="[19 401 168 176 169 50]" src="./kanvas/getting-started/images/importing-designs/drag-drop.gif" onclick="openModal(this.id)" alt="Drag and Drop Import" 
+ &lt;img id="[28 13 209 130 340 156]" src="./kanvas/getting-started/images/importing-designs/drag-drop.gif" onclick="openModal(this.id)" alt="Drag and Drop Import" 
  class="md-image-responsive" /&gt;
 &lt;/div&gt;&lt;/p&gt;</description></item><item><title>Interpreting Component Badges</title><link>/kanvas/designer/interpreting-component-badges/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/kanvas/designer/interpreting-component-badges/</guid><description>&lt;p&gt;Ever wondered what those little icons in the corners of your components are? Think of them as your component&amp;rsquo;s real-time status display. These indicators, called &lt;strong&gt;badges&lt;/strong&gt;, give you at-a-glance information about everything from configuration errors to live performance.&lt;/p&gt;
 &lt;p&gt;
@@ -64604,7 +64604,7 @@ If you&amp;rsquo;d rather use a different shape while keeping the same position,
 
 
 &lt;div class="md__image"&gt;
- &lt;img id="[265 287 477 429 421 82]" src="images/example.png" onclick="openModal(this.id)" alt="Example" 
+ &lt;img id="[270 45 149 116 201 17]" src="images/example.png" onclick="openModal(this.id)" alt="Example" 
  class="md-image-responsive" /&gt;
 &lt;/div&gt;&lt;/p&gt;
 
@@ -64626,17 +64626,18 @@ If you&amp;rsquo;d rather use a different shape while keeping the same position,
  What Each Corner Means
  &lt;a href="#what-each-corner-means" class="heading-anchor" aria-label="Permalink to this heading"&gt;🔗&lt;/a&gt;
 &lt;/h3&gt;
-&lt;p&gt;While the specific badges change depending on your mode, they all follow a consistent placement philosophy. Badges are organized into four quadrants around a component, with each corner reserved for a specific type of information.&lt;/p&gt;</description></item><item><title>Sessions</title><link>/cloud/security/sessions/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/cloud/security/sessions/</guid><description>&lt;h2 id="what-sessions-are" class="heading-link"&gt;
+&lt;p&gt;While the specific badges change depending on your mode, they all follow a consistent placement philosophy. Badges are organized into four quadrants around a component, with each corner reserved for a specific type of information.&lt;/p&gt;</description></item><item><title>Render Modes</title><link>/kanvas/advanced/render-modes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/kanvas/advanced/render-modes/</guid><description>&lt;p&gt;Kanvas supports multiple render modes that control the level of visual detail and interactivity on the canvas. Higher-fidelity modes show more detail but require more processing power, while lower-fidelity modes strip visual elements for better performance on large designs.&lt;/p&gt;
+&lt;p&gt;The Adaptive mode acts like an automatic transmission &amp;ndash; it monitors render performance in real time and seamlessly shifts between modes to maintain smooth interactivity.&lt;/p&gt;
+
+&lt;h2 id="render-modes" class="heading-link"&gt;
+ Render Modes
+ &lt;a href="#render-modes" class="heading-anchor" aria-label="Permalink to this heading"&gt;🔗&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Kanvas provides four render modes, each offering a different balance of visual fidelity and performance:&lt;/p&gt;</description></item><item><title>Sessions</title><link>/cloud/security/sessions/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/cloud/security/sessions/</guid><description>&lt;h2 id="what-sessions-are" class="heading-link"&gt;
  What sessions are
  &lt;a href="#what-sessions-are" class="heading-anchor" aria-label="Permalink to this heading"&gt;🔗&lt;/a&gt;
 &lt;/h2&gt;
-&lt;p&gt;A session represents a user authenticated connection to Layer5 Cloud. Sessions are created each time a user successfully authenticates. Sessions expire after a period of 24 hours. Before reaching their expiration time, sessions can be refreshed by an associated refresh token, which is also automatically generated at the time a user authenticates (at the same time that the adjoining session token is generated). Refresh token have an expiration period of 36 hours. Active sessions are automatically refreshed (kept alive) by the refresh token until such time as the refresh token expires, and subsequently, the session token expires thereafter.&lt;/p&gt;</description></item><item><title>Shortcodes Reference</title><link>/cloud/academy/creating-content/creating-your-learning-path/shortcodes-reference/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/cloud/academy/creating-content/creating-your-learning-path/shortcodes-reference/</guid><description>&lt;p&gt;The Layer5 Academy platform supports a wide range of shortcodes for enriching your learning content. Shortcodes are reusable template snippets you invoke in Markdown files to generate HTML output. They come from three sources:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Academy Theme&lt;/strong&gt; — custom shortcodes built specifically for the Academy platform.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Docsy Theme&lt;/strong&gt; — shortcodes inherited from the &lt;a href="https://www.docsy.dev/"&gt;Google Docsy&lt;/a&gt; documentation theme.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Hugo Built-in&lt;/strong&gt; — shortcodes included with the &lt;a href="https://gohugo.io/"&gt;Hugo&lt;/a&gt; static site generator.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;For guidance on creating your own shortcodes, see &lt;a href="./cloud/academy/creating-content/extending-the-academy/"&gt;Extending the Academy&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Tokens</title><link>/cloud/security/tokens/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/cloud/security/tokens/</guid><description>&lt;h2 id="what-tokens-are" class="heading-link"&gt;
+&lt;p&gt;A session represents a user authenticated connection to Layer5 Cloud. Sessions are created each time a user successfully authenticates. Sessions expire after a period of 24 hours. Before reaching their expiration time, sessions can be refreshed by an associated refresh token, which is also automatically generated at the time a user authenticates (at the same time that the adjoining session token is generated). Refresh token have an expiration period of 36 hours. Active sessions are automatically refreshed (kept alive) by the refresh token until such time as the refresh token expires, and subsequently, the session token expires thereafter.&lt;/p&gt;</description></item><item><title>Tokens</title><link>/cloud/security/tokens/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/cloud/security/tokens/</guid><description>&lt;h2 id="what-tokens-are" class="heading-link"&gt;
  What tokens are
  &lt;a href="#what-tokens-are" class="heading-anchor" aria-label="Permalink to this heading"&gt;🔗&lt;/a&gt;
 &lt;/h2&gt;
@@ -64663,7 +64664,7 @@ If you&amp;rsquo;d rather use a different shape while keeping the same position,
 
 
 &lt;div class="md__image"&gt;
- &lt;img id="[352 7 218 196 150 205]" src="./kanvas/getting-started/images/undeploying-designs/undeploy.png" onclick="openModal(this.id)" alt="undeploying designs" 
+ &lt;img id="[464 169 316 209 306 299]" src="./kanvas/getting-started/images/undeploying-designs/undeploy.png" onclick="openModal(this.id)" alt="undeploying designs" 
  class="md-image-responsive" /&gt;
 &lt;/div&gt;&lt;/p&gt;
 &lt;!-- Text can be **bold**, _italic_, or ~~strikethrough~~. [Links](https://gohugo.io) should be blue with no underlines (unless hovered over).
@@ -65103,7 +65104,7 @@ Kanvas Designer offers three modes: Default, Pencil, and Connector, which behave
 
 
 &lt;div class="md__image"&gt;
- &lt;img id="[16 458 39 41 109 234]" src="./default.gif" onclick="openModal(this.id)" alt="Click" 
+ &lt;img id="[350 204 246 364 172 66]" src="./default.gif" onclick="openModal(this.id)" alt="Click" 
  class="md-image-responsive" /&gt;
 &lt;/div&gt;&lt;/td&gt;
  &lt;/tr&gt;
@@ -65119,7 +65120,7 @@ Kanvas Designer offers three modes: Default, Pencil, and Connector, which behave
 
 
 &lt;div class="md__image"&gt;
- &lt;img id="[67 172 147 2 105 266]" src="./click_and_drag.gif" onclick="openModal(this.id)" alt="Click and drag" 
+ &lt;img id="[110 353 400 74 382 120]" src="./click_and_drag.gif" onclick="openModal(this.id)" alt="Click and drag" 
  class="md-image-responsive" /&gt;
 &lt;/div&gt;&lt;/td&gt;
  &lt;/tr&gt;
@@ -65135,7 +65136,7 @@ Kanvas Designer offers three modes: Default, Pencil, and Connector, which behave
 
 
 &lt;div class="md__image"&gt;
- &lt;img id="[158 122 476 278 425 215]" src="./click.png" onclick="openModal(this.id)" alt="Click" 
+ &lt;img id="[398 485 268 151 132 139]" src="./click.png" onclick="openModal(this.id)" alt="Click" 
  class="md-image-responsive" /&gt;
 &lt;/div&gt;&lt;/td&gt;
  &lt;/tr&gt;
@@ -65151,7 +65152,7 @@ Kanvas Designer offers three modes: Default, Pencil, and Connector, which behave
 
 
 &lt;div class="md__image"&gt;
- &lt;img id="[435 428 29 433 458 218]" src="./double_click.png" onclick="openModal(this.id)" alt="Double-click component" 
+ &lt;img id="[419 163 269 299 238 119]" src="./double_click.png" onclick="openModal(this.id)" alt="Double-click component" 
  class="md-image-responsive" /&gt;
 &lt;/div&gt;&lt;/td&gt;
  &lt;/tr&gt;
@@ -65167,7 +65168,7 @@ Kanvas Designer offers three modes: Default, Pencil, and Connector, which behave
 
 
 &lt;div class="md__image"&gt;
- &lt;img id="[458 108 55 407 43 252]" src="./text-box-double-click.gif" onclick="openModal(this.id)" alt="Double-click textbox" 
+ &lt;img id="[127 149 492 364 71 447]" src="./text-box-double-click.gif" onclick="openModal(this.id)" alt="Double-click textbox" 
  class="md-image-responsive" /&gt;
 &lt;/div&gt;&lt;/td&gt;
  &lt;/tr&gt;
@@ -65183,7 +65184,7 @@ Kanvas Designer offers three modes: Default, Pencil, and Connector, which behave
 
 
 &lt;div class="md__image"&gt;
- &lt;img id="[67 15 247 412 295 287]" src="./right_click.png" onclick="openModal(this.id)" alt="Right-click" 
+ &lt;img id="[211 354 31 243 213 217]" src="./right_click.png" onclick="openModal(this.id)" alt="Right-click" 
  class="md-image-responsive" /&gt;
 &lt;/div&gt;&lt;/td&gt;
  &lt;/tr&gt;
@@ -65199,7 +65200,7 @@ Kanvas Designer offers three modes: Default, Pencil, and Connector, which behave
 
 
 &lt;div class="md__image"&gt;
- &lt;img id="[165 358 208 74 417 481]" src="./select.gif" onclick="openModal(this.id)" alt="Box selection" 
+ &lt;img id="[280 279 329 224 473 83]" src="./select.gif" onclick="openModal(this.id)" alt="Box selection" 
  class="md-image-responsive" /&gt;
 &lt;/div&gt;&lt;/td&gt;
  &lt;/tr&gt;
@@ -65215,7 +65216,7 @@ Kanvas Designer offers three modes: Default, Pencil, and Connector, which behave
 
 
 &lt;div class="md__image"&gt;
- &lt;img id="[89 416 300 344 409 115]" src="./scroll_up_down.gif" onclick="openModal(this.id)" alt="Scroll" 
+ &lt;img id="[477 174 85 194 143 392]" src="./scroll_up_down.gif" onclick="openModal(this.id)" alt="Scroll" 
  class="md-image-responsive" /&gt;
 &lt;/div&gt;&lt;/td&gt;
  &lt;/tr&gt;
@@ -65231,7 +65232,7 @@ Kanvas Designer offers three modes: Default, Pencil, and Connector, which behave
 
 
 &lt;div class="md__image"&gt;
- &lt;img id="[158 34 350 28 243 35]" src="./zoom_in_out.gif" onclick="openModal(this.id)" alt="Zoom" 
+ &lt;img id="[116 156 229 323 439 485]" src="./zoom_in_out.gif" onclick="openModal(this.id)" alt="Zoom" 
  class="md-image-responsive" /&gt;
 &lt;/div&gt;&lt;/td&gt;
  &lt;/tr&gt;
@@ -65247,7 +65248,7 @@ Kanvas Designer offers three modes: Default, Pencil, and Connector, which behave
 
 
 &lt;div class="md__image"&gt;
- &lt;img id="[227 302 468 404 88 286]" src="./scroll_left_right.gif" onclick="openModal(this.id)" alt="Scroll left/right" 
+ &lt;img id="[16 34 242 142 301 442]" src="./scroll_left_right.gif" onclick="openModal(this.id)" alt="Scroll left/right" 
  class="md-image-responsive" /&gt;
 &lt;/div&gt;&lt;/td&gt;
  &lt;/tr&gt;
@@ -65272,7 +65273,7 @@ Kanvas Designer offers three modes: Default, Pencil, and Connector, which behave
 
 
 &lt;div class="md__image"&gt;
- &lt;img id="[380 62 9 402 432 407]" src="./overview.png" onclick="openModal(this.id)" alt="Shapes Introduction" 
+ &lt;img id="[75 231 500 15 97 159]" src="./overview.png" onclick="openModal(this.id)" alt="Shapes Introduction" 
  class="md-image-responsive" /&gt;
 &lt;/div&gt;&lt;/p&gt;
 &lt;p&gt;The whiteboarding feature introduces versatile, freestyle drawing capabilities within Kanvas. Enabling the whiteboard feature augments your ability to diagram with a suite of predefined shapes, and pen and pencil annotation, allowing you full freedom of expression of your engineering diagrams.&lt;/p&gt;
@@ -65389,7 +65390,7 @@ Kanvas Designer offers three modes: Default, Pencil, and Connector, which behave
 
 
 &lt;div class="md__image"&gt;
- &lt;img id="[474 406 277 202 339 384]" src="./kanvas/getting-started/images/deploy-designs/success-deploy.png" onclick="openModal(this.id)" alt="success-deploy" 
+ &lt;img id="[378 192 162 57 450 126]" src="./kanvas/getting-started/images/deploy-designs/success-deploy.png" onclick="openModal(this.id)" alt="success-deploy" 
  class="md-image-responsive" /&gt;
 &lt;/div&gt;&lt;/p&gt;
 
@@ -65408,7 +65409,7 @@ Kanvas Designer offers three modes: Default, Pencil, and Connector, which behave
 
 
 &lt;div class="md__image"&gt;
- &lt;img id="[7 4 43 81 181 430]" src="./kanvas/getting-started/images/deploy-designs/missing-ns.png" onclick="openModal(this.id)" alt="missing-ns" 
+ &lt;img id="[247 46 496 229 116 36]" src="./kanvas/getting-started/images/deploy-designs/missing-ns.png" onclick="openModal(this.id)" alt="missing-ns" 
  class="md-image-responsive" /&gt;
 &lt;/div&gt;&lt;/p&gt;</description></item><item><title>Integrating Assessments in the Academy</title><link>/cloud/academy/creating-content/integrating-assessments-in-the-academy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/cloud/academy/creating-content/integrating-assessments-in-the-academy/</guid><description>&lt;p&gt;&lt;a href="https://cloud.layer5.io/academy/"&gt;Layer5 Cloud Academy&lt;/a&gt; implements &lt;strong&gt;Learning Paths&lt;/strong&gt;, &lt;strong&gt;Challenges&lt;/strong&gt;, and &lt;strong&gt;Certifications&lt;/strong&gt; to enrich the learner experience. We support multi-level assessments to guide and evaluate progress. The content structure is hierarchical and modular, enabling scalable learning design.&lt;/p&gt;
 &lt;p&gt;Think of it as a &lt;strong&gt;botanical garden&lt;/strong&gt;:&lt;/p&gt;
@@ -65455,7 +65456,7 @@ Kanvas Designer offers three modes: Default, Pencil, and Connector, which behave
 
 
 &lt;div class="md__image"&gt;
- &lt;img id="[89 224 130 153 51 375]" src="./cloud/identity/users/org_invite.png" onclick="openModal(this.id)" alt="User Management options" 
+ &lt;img id="[473 143 320 121 169 164]" src="./cloud/identity/users/org_invite.png" onclick="openModal(this.id)" alt="User Management options" 
  class="md-image-responsive" /&gt;
 &lt;/div&gt;&lt;/p&gt;
 
@@ -65476,7 +65477,7 @@ Kanvas Designer offers three modes: Default, Pencil, and Connector, which behave
 
 
 &lt;div class="md__image"&gt;
- &lt;img id="[84 274 409 279 380 220]" src="./kanvas/getting-started/images/working-with-components/configuration-panel.png" onclick="openModal(this.id)" alt="configuration-panel" 
+ &lt;img id="[499 217 50 497 117 449]" src="./kanvas/getting-started/images/working-with-components/configuration-panel.png" onclick="openModal(this.id)" alt="configuration-panel" 
  class="md-image-responsive" /&gt;
 &lt;/div&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Steps to Configure Components:&lt;/strong&gt;&lt;/p&gt;
@@ -65511,7 +65512,7 @@ Kanvas Designer offers three modes: Default, Pencil, and Connector, which behave
 
 
 &lt;div class="md__image"&gt;
- &lt;img id="[119 89 477 167 102 381]" src="./images/academy-admin.svg" onclick="openModal(this.id)" alt="Academy Admin Role" 
+ &lt;img id="[244 121 491 456 178 458]" src="./images/academy-admin.svg" onclick="openModal(this.id)" alt="Academy Admin Role" 
  class="md-image-responsive" /&gt;
 &lt;/div&gt;&lt;/p&gt;</description></item><item><title>Building Certifications</title><link>/cloud/academy/creating-content/building-certifications/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/cloud/academy/creating-content/building-certifications/</guid><description>&lt;p&gt;In &lt;a href="https://cloud.layer5.io/academy/"&gt;Layer5 Academy&lt;/a&gt;, a &lt;strong&gt;Certification&lt;/strong&gt; is a formal assessment designed to validate a learner&amp;rsquo;s professional skills in a specific domain. Unlike a Learning Path, which guides a user through a curriculum, a Certification&amp;rsquo;s primary goal is evaluation.&lt;/p&gt;
 &lt;p&gt;The successful completion of a Certification results in an official, shareable &lt;strong&gt;Certificate of Completion&lt;/strong&gt; and a valuable badge, signifying a verified level of proficiency.&lt;/p&gt;
@@ -65523,7 +65524,7 @@ Kanvas Designer offers three modes: Default, Pencil, and Connector, which behave
 
 
 &lt;div class="md__image"&gt;
- &lt;img id="[147 430 432 267 359 407]" src="./images/index-page.png" onclick="openModal(this.id)" alt="example image" 
+ &lt;img id="[160 402 465 490 349 188]" src="./images/index-page.png" onclick="openModal(this.id)" alt="example image" 
  class="md-image-responsive" /&gt;
 &lt;/div&gt;&lt;/p&gt;
 
@@ -65549,7 +65550,7 @@ Kanvas Designer offers three modes: Default, Pencil, and Connector, which behave
 
 
 &lt;div class="md__image"&gt;
- &lt;img id="[216 279 31 170 37 60]" src="./kanvas/getting-started/images/deploy-designs/clone-design.gif" onclick="openModal(this.id)" alt="Copy of a Design" 
+ &lt;img id="[412 194 387 497 290 98]" src="./kanvas/getting-started/images/deploy-designs/clone-design.gif" onclick="openModal(this.id)" alt="Copy of a Design" 
  class="md-image-responsive" /&gt;
 &lt;/div&gt;&lt;/p&gt;</description></item><item><title>Default User Permissions</title><link>/cloud/identity/users/default-permissions/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/cloud/identity/users/default-permissions/</guid><description>&lt;table class="td-initial"&gt;
  &lt;thead&gt;
@@ -65688,7 +65689,7 @@ The Instance Details tab is accessible when you select a specific Kubernetes res
 
 
 &lt;div class="md__image"&gt;
- &lt;img id="[297 142 251 236 427 310]" src="./kanvas/operator/images/Views.svg" onclick="openModal(this.id)" alt="Operator Views" 
+ &lt;img id="[224 91 471 63 428 391]" src="./kanvas/operator/images/Views.svg" onclick="openModal(this.id)" alt="Operator Views" 
  class="md-image-responsive" /&gt;
 &lt;/div&gt;&lt;/p&gt;
 
@@ -65720,7 +65721,7 @@ creating learning paths, challenges, and certifications by collecting all necess
 
 
 &lt;div class="md__image"&gt;
- &lt;img id="[204 287 211 244 67 333]" src="images/template-creator.png" onclick="openModal(this.id)" alt="Academy Content Template Creator" 
+ &lt;img id="[158 391 104 126 265 187]" src="images/template-creator.png" onclick="openModal(this.id)" alt="Academy Content Template Creator" 
  class="md-image-responsive" /&gt;
 &lt;/div&gt;&lt;/p&gt;
 &lt;ol&gt;
@@ -65805,7 +65806,7 @@ Choose the option that matches your workflow (see table below).&lt;/li&gt;
 
 
 &lt;div class="md__image"&gt;
- &lt;img id="[113 125 203 494 101 387]" src="./export-modal.gif" onclick="openModal(this.id)" alt="Export Icon" 
+ &lt;img id="[336 489 225 462 431 232]" src="./export-modal.gif" onclick="openModal(this.id)" alt="Export Icon" 
  class="md-image-responsive" /&gt;
 &lt;/div&gt;&lt;/p&gt;</description></item><item><title>Publishing Designs</title><link>/kanvas/designer/publishing-designs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/kanvas/designer/publishing-designs/</guid><description>&lt;p&gt;Publishing a design makes it visible to all Meshery Cloud users and anonymous visitors. This guide explains the publishing workflow, state management, permissions, and operational constraints.&lt;/p&gt;
 
@@ -65845,7 +65846,337 @@ Choose the option that matches your workflow (see table below).&lt;/li&gt;
 &lt;p&gt;&lt;strong&gt;Acknowledgment:&lt;/strong&gt; You&amp;rsquo;ll receive notifications about badges you&amp;rsquo;ve been awarded and related updates.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Approval Requests:&lt;/strong&gt; You&amp;rsquo;ll be notified about Workspace, Account, Permissions, Catalog&lt;/p&gt;</description></item><item><title>v1.0.1</title><link>/cloud/reference/releases/v1.0.1/</link><pubDate>Sat, 04 Apr 2026 22:53:45 +0000</pubDate><guid>/cloud/reference/releases/v1.0.1/</guid><description>&lt;ul&gt;
+&lt;p&gt;&lt;strong&gt;Approval Requests:&lt;/strong&gt; You&amp;rsquo;ll be notified about Workspace, Account, Permissions, Catalog&lt;/p&gt;</description></item><item><title>v1.0.6-1</title><link>/kanvas/reference/releases/v1.0.6-1/</link><pubDate>Thu, 09 Apr 2026 06:46:48 +0000</pubDate><guid>/kanvas/reference/releases/v1.0.6-1/</guid><description>&lt;h2 id="whats-new" class="heading-link"&gt;
+ What&amp;rsquo;s New
+ &lt;a href="#whats-new" class="heading-anchor" aria-label="Permalink to this heading"&gt;🔗&lt;/a&gt;
+&lt;/h2&gt;
+
+&lt;h2 id="-general" class="heading-link"&gt;
+ 🔤 General
+ &lt;a href="#-general" class="heading-anchor" aria-label="Permalink to this heading"&gt;🔗&lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fix TypeError when catalog_data is undefined in Catalog modal @arjunmehta-git (#4102)&lt;/li&gt;
+&lt;li&gt;update @arjunmehta-git (#4101)&lt;/li&gt;
+&lt;li&gt;fix: harden XState actor guards against null data crashes @arjunmehta-git (#4100)&lt;/li&gt;
+&lt;li&gt;Remove axios dependency and deduplicate RTK endpoints @arjunmehta-git (#4097)&lt;/li&gt;
+&lt;li&gt;docs: rewrite AGENTS.md for coding agent relevance @arjunmehta-git (#4094)&lt;/li&gt;
+&lt;li&gt;build: replace webpack with rspack @yi-nuo426 (#4084)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="-designer" class="heading-link"&gt;
+ 🖌️ Designer
+ &lt;a href="#-designer" class="heading-anchor" aria-label="Permalink to this heading"&gt;🔗&lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;fix: improve mobile responsiveness and touch navigation @arjunmehta-git (#4095)&lt;/li&gt;
+&lt;li&gt;simplify @arjunmehta-git (#4098)&lt;/li&gt;
+&lt;li&gt;fix build issues @arjunmehta-git (#4093)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="-bug-fixes" class="heading-link"&gt;
+ 🐛 Bug Fixes
+ &lt;a href="#-bug-fixes" class="heading-anchor" aria-label="Permalink to this heading"&gt;🔗&lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;fix: improve mobile responsiveness and touch navigation @arjunmehta-git (#4095)&lt;/li&gt;
+&lt;li&gt;Fix React runtime bundling mismatch in Kanvas @arjunmehta-git (#4099)&lt;/li&gt;
+&lt;li&gt;.patternFile @arjunmehta-git (#4096)&lt;/li&gt;
+&lt;li&gt;Fix feedback React import and logo SVG sizing @yi-nuo426 (#4083)&lt;/li&gt;
+&lt;li&gt;fix build issues @arjunmehta-git (#4093)&lt;/li&gt;
+&lt;li&gt;test: stabilize follow-up E2E interactions @marblom007 (#4092)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="-contributors" class="heading-link"&gt;
+ 👨🏽‍💻 Contributors
+ &lt;a href="#-contributors" class="heading-anchor" aria-label="Permalink to this heading"&gt;🔗&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Thank you to our contributors for making this release possible:
+@arjunmehta-git, @hortison, @l5io, @leecalcote, @marblom007 and @yi-nuo426&lt;/p&gt;</description></item><item><title>v1.0.6</title><link>/cloud/reference/releases/v1.0.6/</link><pubDate>Thu, 09 Apr 2026 06:38:13 +0000</pubDate><guid>/cloud/reference/releases/v1.0.6/</guid><description>&lt;ul&gt;
+&lt;li&gt;Fix all-organizations provider admin flow @arjunmehta-git (#5005)&lt;/li&gt;
+&lt;li&gt;Transition UUID type references to schemas core.Uuid @yi-nuo426 (#5003)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="-contributors" class="heading-link"&gt;
+ 👨🏽‍💻 Contributors
+ &lt;a href="#-contributors" class="heading-anchor" aria-label="Permalink to this heading"&gt;🔗&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;Thank you to our contributors for making this release possible:
+@arjunmehta-git, @hamza-mohd, @l5io, @leecalcote and @yi-nuo426&lt;/p&gt;</description></item><item><title>v1.0.5-2</title><link>/kanvas/reference/releases/v1.0.5-2/</link><pubDate>Wed, 08 Apr 2026 22:05:24 +0000</pubDate><guid>/kanvas/reference/releases/v1.0.5-2/</guid><description>&lt;h2 id="whats-new" class="heading-link"&gt;
+ What&amp;rsquo;s New
+ &lt;a href="#whats-new" class="heading-anchor" aria-label="Permalink to this heading"&gt;🔗&lt;/a&gt;
+&lt;/h2&gt;
+
+&lt;h2 id="-general" class="heading-link"&gt;
+ 🔤 General
+ &lt;a href="#-general" class="heading-anchor" aria-label="Permalink to this heading"&gt;🔗&lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;fix: relationship API endpoints broken after RTK migration @arjunmehta-git (#4091)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="-contributors" class="heading-link"&gt;
+ 👨🏽‍💻 Contributors
+ &lt;a href="#-contributors" class="heading-anchor" aria-label="Permalink to this heading"&gt;🔗&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Thank you to our contributors for making this release possible:
+@aabidsofi19, @arjunmehta-git, @l5io and @leecalcote&lt;/p&gt;</description></item><item><title>v1.0.5-1</title><link>/kanvas/reference/releases/v1.0.5-1/</link><pubDate>Tue, 07 Apr 2026 20:22:03 +0000</pubDate><guid>/kanvas/reference/releases/v1.0.5-1/</guid><description>&lt;h2 id="whats-new" class="heading-link"&gt;
+ What&amp;rsquo;s New
+ &lt;a href="#whats-new" class="heading-anchor" aria-label="Permalink to this heading"&gt;🔗&lt;/a&gt;
+&lt;/h2&gt;
+
+&lt;h2 id="-general" class="heading-link"&gt;
+ 🔤 General
+ &lt;a href="#-general" class="heading-anchor" aria-label="Permalink to this heading"&gt;🔗&lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;No changes&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="-contributors" class="heading-link"&gt;
+ 👨🏽‍💻 Contributors
+ &lt;a href="#-contributors" class="heading-anchor" aria-label="Permalink to this heading"&gt;🔗&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Thank you to our contributors for making this release possible:
+@l5io&lt;/p&gt;</description></item><item><title>v1.0.4-v1.0.4</title><link>/kanvas/reference/releases/v1.0.4-v1.0.4/</link><pubDate>Tue, 07 Apr 2026 19:07:49 +0000</pubDate><guid>/kanvas/reference/releases/v1.0.4-v1.0.4/</guid><description>&lt;h2 id="whats-new" class="heading-link"&gt;
+ What&amp;rsquo;s New
+ &lt;a href="#whats-new" class="heading-anchor" aria-label="Permalink to this heading"&gt;🔗&lt;/a&gt;
+&lt;/h2&gt;
+
+&lt;h2 id="-general" class="heading-link"&gt;
+ 🔤 General
+ &lt;a href="#-general" class="heading-anchor" aria-label="Permalink to this heading"&gt;🔗&lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;chore(deps): bump lodash from 4.17.21 to 4.18.1 in /tests @&lt;a href="https://github.com/apps/dependabot"&gt;dependabot[bot]&lt;/a&gt; (#4089)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="-contributors" class="heading-link"&gt;
+ 👨🏽‍💻 Contributors
+ &lt;a href="#-contributors" class="heading-anchor" aria-label="Permalink to this heading"&gt;🔗&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Thank you to our contributors for making this release possible:
+@arjunmehta-git, @dependabot[bot], @l5io and &lt;a href="https://github.com/apps/dependabot"&gt;dependabot[bot]&lt;/a&gt;&lt;/p&gt;</description></item><item><title>v1.0.4-1</title><link>/kanvas/reference/releases/v1.0.4-1/</link><pubDate>Tue, 07 Apr 2026 18:03:23 +0000</pubDate><guid>/kanvas/reference/releases/v1.0.4-1/</guid><description>&lt;h2 id="whats-new" class="heading-link"&gt;
+ What&amp;rsquo;s New
+ &lt;a href="#whats-new" class="heading-anchor" aria-label="Permalink to this heading"&gt;🔗&lt;/a&gt;
+&lt;/h2&gt;
+
+&lt;h2 id="-general" class="heading-link"&gt;
+ 🔤 General
+ &lt;a href="#-general" class="heading-anchor" aria-label="Permalink to this heading"&gt;🔗&lt;/a&gt;
+&lt;/h2&gt;
+
+&lt;h2 id="-designer" class="heading-link"&gt;
+ 🖌️ Designer
+ &lt;a href="#-designer" class="heading-anchor" aria-label="Permalink to this heading"&gt;🔗&lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;fix pattern file naming in ui @aabidsofi19 (#4088)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="-bug-fixes" class="heading-link"&gt;
+ 🐛 Bug Fixes
+ &lt;a href="#-bug-fixes" class="heading-anchor" aria-label="Permalink to this heading"&gt;🔗&lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;fix pattern file naming in ui @aabidsofi19 (#4088)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="-contributors" class="heading-link"&gt;
+ 👨🏽‍💻 Contributors
+ &lt;a href="#-contributors" class="heading-anchor" aria-label="Permalink to this heading"&gt;🔗&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Thank you to our contributors for making this release possible:
+@aabidsofi19 and @l5io&lt;/p&gt;</description></item><item><title>v1.0.5</title><link>/cloud/reference/releases/v1.0.5/</link><pubDate>Tue, 07 Apr 2026 18:01:08 +0000</pubDate><guid>/cloud/reference/releases/v1.0.5/</guid><description>&lt;ul&gt;
+&lt;li&gt;Chore: UI package updates @leecalcote (#4999)&lt;/li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;fix patternFile tag naming @aabidsofi19 (#4996)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="-contributors" class="heading-link"&gt;
+ 👨🏽‍💻 Contributors
+ &lt;a href="#-contributors" class="heading-anchor" aria-label="Permalink to this heading"&gt;🔗&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;Thank you to our contributors for making this release possible:
+@aabidsofi19, @leecalcote and @yi-nuo426&lt;/p&gt;</description></item><item><title>v1.0.3-1</title><link>/kanvas/reference/releases/v1.0.3-1/</link><pubDate>Tue, 07 Apr 2026 15:10:56 +0000</pubDate><guid>/kanvas/reference/releases/v1.0.3-1/</guid><description>&lt;h2 id="whats-new" class="heading-link"&gt;
+ What&amp;rsquo;s New
+ &lt;a href="#whats-new" class="heading-anchor" aria-label="Permalink to this heading"&gt;🔗&lt;/a&gt;
+&lt;/h2&gt;
+
+&lt;h2 id="-general" class="heading-link"&gt;
+ 🔤 General
+ &lt;a href="#-general" class="heading-anchor" aria-label="Permalink to this heading"&gt;🔗&lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;No changes&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="-contributors" class="heading-link"&gt;
+ 👨🏽‍💻 Contributors
+ &lt;a href="#-contributors" class="heading-anchor" aria-label="Permalink to this heading"&gt;🔗&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Thank you to our contributors for making this release possible:
+@l5io&lt;/p&gt;</description></item><item><title>v1.0.2-2</title><link>/kanvas/reference/releases/v1.0.2-2/</link><pubDate>Tue, 07 Apr 2026 08:26:05 +0000</pubDate><guid>/kanvas/reference/releases/v1.0.2-2/</guid><description>&lt;h2 id="whats-new" class="heading-link"&gt;
+ What&amp;rsquo;s New
+ &lt;a href="#whats-new" class="heading-anchor" aria-label="Permalink to this heading"&gt;🔗&lt;/a&gt;
+&lt;/h2&gt;
+
+&lt;h2 id="-general" class="heading-link"&gt;
+ 🔤 General
+ &lt;a href="#-general" class="heading-anchor" aria-label="Permalink to this heading"&gt;🔗&lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;fix: polyfill ReactDOM.findDOMNode for React 19 compat @yi-nuo426 (#4086)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="-contributors" class="heading-link"&gt;
+ 👨🏽‍💻 Contributors
+ &lt;a href="#-contributors" class="heading-anchor" aria-label="Permalink to this heading"&gt;🔗&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Thank you to our contributors for making this release possible:
+@aabidsofi19, @l5io and @yi-nuo426&lt;/p&gt;</description></item><item><title>v1.0.2-1</title><link>/kanvas/reference/releases/v1.0.2-1/</link><pubDate>Tue, 07 Apr 2026 07:32:24 +0000</pubDate><guid>/kanvas/reference/releases/v1.0.2-1/</guid><description>&lt;h2 id="whats-new" class="heading-link"&gt;
+ What&amp;rsquo;s New
+ &lt;a href="#whats-new" class="heading-anchor" aria-label="Permalink to this heading"&gt;🔗&lt;/a&gt;
+&lt;/h2&gt;
+
+&lt;h2 id="-general" class="heading-link"&gt;
+ 🔤 General
+ &lt;a href="#-general" class="heading-anchor" aria-label="Permalink to this heading"&gt;🔗&lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;refactor/workspace type from schemas @yi-nuo426 (#4080)&lt;/li&gt;
+&lt;li&gt;project settings @yi-nuo426 (#4072)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="-operator" class="heading-link"&gt;
+ 🕸️ Operator
+ &lt;a href="#-operator" class="heading-anchor" aria-label="Permalink to this heading"&gt;🔗&lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;fix react internal runtime crash @aabidsofi19 (#4085)&lt;/li&gt;
+&lt;li&gt;refactor/workspace type from schemas @yi-nuo426 (#4081)&lt;/li&gt;
+&lt;li&gt;Upgrade @meshery/schemas to v1.0.4 and @sistent/sistent to v0.18.2 @yi-nuo426 (#4078)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="-bug-fixes" class="heading-link"&gt;
+ 🐛 Bug Fixes
+ &lt;a href="#-bug-fixes" class="heading-anchor" aria-label="Permalink to this heading"&gt;🔗&lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;fix react internal runtime crash @aabidsofi19 (#4085)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="-maintenance" class="heading-link"&gt;
+ 🧰 Maintenance
+ &lt;a href="#-maintenance" class="heading-anchor" aria-label="Permalink to this heading"&gt;🔗&lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;fix react internal runtime crash @aabidsofi19 (#4085)&lt;/li&gt;
+&lt;li&gt;chore: improve environment and workflow configuration @yi-nuo426 (#4073)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="-contributors" class="heading-link"&gt;
+ 👨🏽‍💻 Contributors
+ &lt;a href="#-contributors" class="heading-anchor" aria-label="Permalink to this heading"&gt;🔗&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Thank you to our contributors for making this release possible:
+@aabidsofi19, @l5io, @leecalcote, @miacycle, @simihablo and @yi-nuo426&lt;/p&gt;</description></item><item><title>v1.0.4</title><link>/cloud/reference/releases/v1.0.4/</link><pubDate>Tue, 07 Apr 2026 06:14:33 +0000</pubDate><guid>/cloud/reference/releases/v1.0.4/</guid><description>&lt;ul&gt;
+&lt;li&gt;[Chore]: Update to Sistent v0.18.3 @l5io (#4994)&lt;/li&gt;
+&lt;li&gt;chore: upgrade meshery/schemas to v1.0.5 @yi-nuo426 (#4993)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="-contributors" class="heading-link"&gt;
+ 👨🏽‍💻 Contributors
+ &lt;a href="#-contributors" class="heading-anchor" aria-label="Permalink to this heading"&gt;🔗&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;Thank you to our contributors for making this release possible:
+@l5io, @leecalcote and @yi-nuo426&lt;/p&gt;</description></item><item><title>v1.0.3</title><link>/cloud/reference/releases/v1.0.3/</link><pubDate>Tue, 07 Apr 2026 04:12:22 +0000</pubDate><guid>/cloud/reference/releases/v1.0.3/</guid><description>&lt;ul&gt;
+&lt;li&gt;Bump @sistent/sistent to v0.18.2 and use editWorkspaceSchema @fitzergerald (#4987)&lt;/li&gt;
+&lt;li&gt;Upgrade to Meshery Schemas v1.0.4: enhance Workspace API @yi-nuo426 (#4985)&lt;/li&gt;
+&lt;li&gt;Implement Wave 1 test coverage: 310+ new tests @leecalcote (#4959)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="-contributors" class="heading-link"&gt;
+ 👨🏽‍💻 Contributors
+ &lt;a href="#-contributors" class="heading-anchor" aria-label="Permalink to this heading"&gt;🔗&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;Thank you to our contributors for making this release possible:
+@fitzergerald, @l5io, @leecalcote, @miacycle, @simihablo and @yi-nuo426&lt;/p&gt;</description></item><item><title>v1.0.1-1</title><link>/kanvas/reference/releases/v1.0.1-1/</link><pubDate>Mon, 06 Apr 2026 20:06:07 +0000</pubDate><guid>/kanvas/reference/releases/v1.0.1-1/</guid><description>&lt;h2 id="whats-new" class="heading-link"&gt;
+ What&amp;rsquo;s New
+ &lt;a href="#whats-new" class="heading-anchor" aria-label="Permalink to this heading"&gt;🔗&lt;/a&gt;
+&lt;/h2&gt;
+
+&lt;h2 id="-general" class="heading-link"&gt;
+ 🔤 General
+ &lt;a href="#-general" class="heading-anchor" aria-label="Permalink to this heading"&gt;🔗&lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;enhanced test env defaults @yi-nuo426 (#4064)&lt;/li&gt;
+&lt;li&gt;fix duplicate element test @leecalcote (#4063)&lt;/li&gt;
+&lt;li&gt;fix: correct URL query string in deploy/undeploy endpoints @alexquincy (#4058)&lt;/li&gt;
+&lt;li&gt;chore: fix import order in designs.ts @leecalcote (#4055)&lt;/li&gt;
+&lt;li&gt;chore: add .claude/settings.local.json to .gitignore @alexquincy (#4056)&lt;/li&gt;
+&lt;li&gt;additional package added @leecalcote (#4044)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="-designer" class="heading-link"&gt;
+ 🖌️ Designer
+ &lt;a href="#-designer" class="heading-anchor" aria-label="Permalink to this heading"&gt;🔗&lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;fix: use isRejectedWithValue for 510 error check in middleware @leecalcote (#4059)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="-operator" class="heading-link"&gt;
+ 🕸️ Operator
+ &lt;a href="#-operator" class="heading-anchor" aria-label="Permalink to this heading"&gt;🔗&lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;fix: use isRejectedWithValue for 510 error check in middleware @leecalcote (#4059)&lt;/li&gt;
+&lt;li&gt;fix: remove console.log debug code from mesheryErrorMiddleware @alexquincy (#4057)&lt;/li&gt;
+&lt;li&gt;chore: upgrade to meshery/schemas v1.0.1, sistent v0.18.1, meshkit v1.0.1 @leecalcote (#4048)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="-bug-fixes" class="heading-link"&gt;
+ 🐛 Bug Fixes
+ &lt;a href="#-bug-fixes" class="heading-anchor" aria-label="Permalink to this heading"&gt;🔗&lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fix syncedStore Immer import @yi-nuo426 (#4065)&lt;/li&gt;
+&lt;li&gt;fix: detect local Meshery lockfile from worktrees @leecalcote (#4060)&lt;/li&gt;
+&lt;li&gt;Resolve catalog modal issue @Rajesh-Nagarajan-11 (#4035)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="-maintenance" class="heading-link"&gt;
+ 🧰 Maintenance
+ &lt;a href="#-maintenance" class="heading-anchor" aria-label="Permalink to this heading"&gt;🔗&lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;chore: use sparse checkout for meshery release sync @yi-nuo426 (#4068)&lt;/li&gt;
+&lt;li&gt;fix: sync graphql go.mod to Meshery release tag before Docker build @leecalcote (#4062)&lt;/li&gt;
+&lt;li&gt;Bump typescript-eslint from 8.57.2 to 8.58.0 in /meshmap @&lt;a href="https://github.com/apps/dependabot"&gt;dependabot[bot]&lt;/a&gt; (#4045)&lt;/li&gt;
+&lt;li&gt;Bump @microlink/react-json-view from 1.31.3 to 1.31.15 in /meshmap @&lt;a href="https://github.com/apps/dependabot"&gt;dependabot[bot]&lt;/a&gt; (#4046)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="-contributors" class="heading-link"&gt;
+ 👨🏽‍💻 Contributors
+ &lt;a href="#-contributors" class="heading-anchor" aria-label="Permalink to this heading"&gt;🔗&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Thank you to our contributors for making this release possible:
+@Copilot, @Rajesh-Nagarajan-11, @aabidsofi19, @alexquincy, @arjunmehta-git, @dependabot[bot], @l5io, @leecalcote, @ritzorama, @simihablo, @yi-nuo426 and &lt;a href="https://github.com/apps/dependabot"&gt;dependabot[bot]&lt;/a&gt;&lt;/p&gt;</description></item><item><title>v1.0.2</title><link>/cloud/reference/releases/v1.0.2/</link><pubDate>Mon, 06 Apr 2026 17:09:46 +0000</pubDate><guid>/cloud/reference/releases/v1.0.2/</guid><description>&lt;ul&gt;
+&lt;li&gt;fix: use dynamic label in OutlinedInput for correct border cutout @Rajesh-Nagarajan-11 (#4978)&lt;/li&gt;
+&lt;li&gt;fix(db): make seed migration idempotent against existing data @yi-nuo426 (#4976)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="-contributors" class="heading-link"&gt;
+ 👨🏽‍💻 Contributors
+ &lt;a href="#-contributors" class="heading-anchor" aria-label="Permalink to this heading"&gt;🔗&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;Thank you to our contributors for making this release possible:
+@Rajesh-Nagarajan-11, @alexquincy, @l5io, @meshery-ci and @yi-nuo426&lt;/p&gt;</description></item><item><title>v1.0.1</title><link>/cloud/reference/releases/v1.0.1/</link><pubDate>Sat, 04 Apr 2026 22:53:45 +0000</pubDate><guid>/cloud/reference/releases/v1.0.1/</guid><description>&lt;ul&gt;
 &lt;li&gt;fix(db): realign academy enum type names with schemas package @yi-nuo426 (#4975)&lt;/li&gt;
 &lt;li&gt;fix(router): restore ui/public fallback for /assets/* and /favicon.ico @yi-nuo426 (#4974)&lt;/li&gt;
 &lt;li&gt;Fix academy dashboard summary guards @yi-nuo426 (#4973)&lt;/li&gt;
