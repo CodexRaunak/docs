@@ -64256,7 +64256,7 @@
 
 
 &lt;div class="md__image"&gt;
- &lt;img id="[169 259 372 451 90 330]" src="./images/overview.png" onclick="openModal(this.id)" alt="Example of Academy" 
+ &lt;img id="[428 194 237 29 462 431]" src="./images/overview.png" onclick="openModal(this.id)" alt="Example of Academy" 
  class="md-image-responsive" /&gt;
 &lt;/div&gt;&lt;/p&gt;</description></item><item><title>Integrating GitHub with Meshery</title><link>/cloud/getting-started/github-integration/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/cloud/getting-started/github-integration/</guid><description>&lt;h2 id="introduction" class="heading-link"&gt;
  Introduction
@@ -64274,7 +64274,7 @@
 
 
 &lt;div class="md__image"&gt;
- &lt;img id="[329 379 72 258 492 349]" src="./cloud/catalog/images/leaderboard-page.gif" onclick="openModal(this.id)" alt="Leaderboard page overview" 
+ &lt;img id="[349 9 271 226 178 230]" src="./cloud/catalog/images/leaderboard-page.gif" onclick="openModal(this.id)" alt="Leaderboard page overview" 
  class="md-image-responsive" /&gt;
 &lt;/div&gt;&lt;/p&gt;
 
@@ -64359,7 +64359,7 @@ Think of Designer mode as your blueprint studio. Just like architects use specif
 
 
 &lt;div class="md__image"&gt;
- &lt;img id="[71 350 154 187 91 329]" src="images/style-edge.gif" onclick="openModal(this.id)" alt="Examples of changing edge styles in Kanvas" 
+ &lt;img id="[292 384 65 475 122 458]" src="images/style-edge.gif" onclick="openModal(this.id)" alt="Examples of changing edge styles in Kanvas" 
  class="md-image-responsive" /&gt;
 &lt;/div&gt;&lt;/p&gt;
 
@@ -64400,7 +64400,7 @@ Think of Designer mode as your blueprint studio. Just like architects use specif
 
 
 &lt;div class="md__image"&gt;
- &lt;img id="[123 472 240 58 281 426]" src="./kanvas/getting-started/images/validating-designs/performing-validation-1.png" onclick="openModal(this.id)" alt="Navigate to Actions button" 
+ &lt;img id="[460 259 289 278 492 101]" src="./kanvas/getting-started/images/validating-designs/performing-validation-1.png" onclick="openModal(this.id)" alt="Navigate to Actions button" 
  class="md-image-responsive" /&gt;
 &lt;/div&gt;&lt;/p&gt;</description></item><item><title>Whiteboarding</title><link>/kanvas/tasks/whiteboarding/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/kanvas/tasks/whiteboarding/</guid><description>&lt;p&gt;With Kanvas Designer you can draw shapes, lines, text, add custom styles, images and icons to represent the components and relationships of your Kubernetes clusters as you see fit. Kanvas supports freestyle design, meaning that you can customize the appearance and layout of your diagrams without any constraints. Kanvas also enables real-time collaboration, meaning that you can invite others to join your sessions and edit the diagrams together.&lt;/p&gt;
 
@@ -64521,7 +64521,7 @@ If you&amp;rsquo;d rather use a different shape while keeping the same position,
 
 
 &lt;div class="md__image"&gt;
- &lt;img id="[234 18 171 344 65 351]" src="./cloud/catalog/images/catalog-view.gif" onclick="openModal(this.id)" alt="Catalog main page view" 
+ &lt;img id="[486 178 31 436 177 445]" src="./cloud/catalog/images/catalog-view.gif" onclick="openModal(this.id)" alt="Catalog main page view" 
  class="md-image-responsive" /&gt;
 &lt;/div&gt;&lt;/p&gt;
 
@@ -64593,7 +64593,7 @@ If you&amp;rsquo;d rather use a different shape while keeping the same position,
 
 
 &lt;div class="md__image"&gt;
- &lt;img id="[28 13 209 130 340 156]" src="./kanvas/getting-started/images/importing-designs/drag-drop.gif" onclick="openModal(this.id)" alt="Drag and Drop Import" 
+ &lt;img id="[317 222 125 444 302 253]" src="./kanvas/getting-started/images/importing-designs/drag-drop.gif" onclick="openModal(this.id)" alt="Drag and Drop Import" 
  class="md-image-responsive" /&gt;
 &lt;/div&gt;&lt;/p&gt;</description></item><item><title>Interpreting Component Badges</title><link>/kanvas/designer/interpreting-component-badges/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/kanvas/designer/interpreting-component-badges/</guid><description>&lt;p&gt;Ever wondered what those little icons in the corners of your components are? Think of them as your component&amp;rsquo;s real-time status display. These indicators, called &lt;strong&gt;badges&lt;/strong&gt;, give you at-a-glance information about everything from configuration errors to live performance.&lt;/p&gt;
 &lt;p&gt;
@@ -64604,7 +64604,7 @@ If you&amp;rsquo;d rather use a different shape while keeping the same position,
 
 
 &lt;div class="md__image"&gt;
- &lt;img id="[270 45 149 116 201 17]" src="images/example.png" onclick="openModal(this.id)" alt="Example" 
+ &lt;img id="[126 297 108 93 411 419]" src="images/example.png" onclick="openModal(this.id)" alt="Example" 
  class="md-image-responsive" /&gt;
 &lt;/div&gt;&lt;/p&gt;
 
@@ -64664,7 +64664,7 @@ If you&amp;rsquo;d rather use a different shape while keeping the same position,
 
 
 &lt;div class="md__image"&gt;
- &lt;img id="[464 169 316 209 306 299]" src="./kanvas/getting-started/images/undeploying-designs/undeploy.png" onclick="openModal(this.id)" alt="undeploying designs" 
+ &lt;img id="[299 203 300 213 229 440]" src="./kanvas/getting-started/images/undeploying-designs/undeploy.png" onclick="openModal(this.id)" alt="undeploying designs" 
  class="md-image-responsive" /&gt;
 &lt;/div&gt;&lt;/p&gt;
 &lt;!-- Text can be **bold**, _italic_, or ~~strikethrough~~. [Links](https://gohugo.io) should be blue with no underlines (unless hovered over).
@@ -65104,7 +65104,7 @@ Kanvas Designer offers three modes: Default, Pencil, and Connector, which behave
 
 
 &lt;div class="md__image"&gt;
- &lt;img id="[350 204 246 364 172 66]" src="./default.gif" onclick="openModal(this.id)" alt="Click" 
+ &lt;img id="[322 397 184 194 89 199]" src="./default.gif" onclick="openModal(this.id)" alt="Click" 
  class="md-image-responsive" /&gt;
 &lt;/div&gt;&lt;/td&gt;
  &lt;/tr&gt;
@@ -65120,7 +65120,7 @@ Kanvas Designer offers three modes: Default, Pencil, and Connector, which behave
 
 
 &lt;div class="md__image"&gt;
- &lt;img id="[110 353 400 74 382 120]" src="./click_and_drag.gif" onclick="openModal(this.id)" alt="Click and drag" 
+ &lt;img id="[31 71 374 52 376 364]" src="./click_and_drag.gif" onclick="openModal(this.id)" alt="Click and drag" 
  class="md-image-responsive" /&gt;
 &lt;/div&gt;&lt;/td&gt;
  &lt;/tr&gt;
@@ -65136,7 +65136,7 @@ Kanvas Designer offers three modes: Default, Pencil, and Connector, which behave
 
 
 &lt;div class="md__image"&gt;
- &lt;img id="[398 485 268 151 132 139]" src="./click.png" onclick="openModal(this.id)" alt="Click" 
+ &lt;img id="[218 233 198 195 411 257]" src="./click.png" onclick="openModal(this.id)" alt="Click" 
  class="md-image-responsive" /&gt;
 &lt;/div&gt;&lt;/td&gt;
  &lt;/tr&gt;
@@ -65152,7 +65152,7 @@ Kanvas Designer offers three modes: Default, Pencil, and Connector, which behave
 
 
 &lt;div class="md__image"&gt;
- &lt;img id="[419 163 269 299 238 119]" src="./double_click.png" onclick="openModal(this.id)" alt="Double-click component" 
+ &lt;img id="[478 298 380 132 11 57]" src="./double_click.png" onclick="openModal(this.id)" alt="Double-click component" 
  class="md-image-responsive" /&gt;
 &lt;/div&gt;&lt;/td&gt;
  &lt;/tr&gt;
@@ -65168,7 +65168,7 @@ Kanvas Designer offers three modes: Default, Pencil, and Connector, which behave
 
 
 &lt;div class="md__image"&gt;
- &lt;img id="[127 149 492 364 71 447]" src="./text-box-double-click.gif" onclick="openModal(this.id)" alt="Double-click textbox" 
+ &lt;img id="[85 330 55 119 339 480]" src="./text-box-double-click.gif" onclick="openModal(this.id)" alt="Double-click textbox" 
  class="md-image-responsive" /&gt;
 &lt;/div&gt;&lt;/td&gt;
  &lt;/tr&gt;
@@ -65184,7 +65184,7 @@ Kanvas Designer offers three modes: Default, Pencil, and Connector, which behave
 
 
 &lt;div class="md__image"&gt;
- &lt;img id="[211 354 31 243 213 217]" src="./right_click.png" onclick="openModal(this.id)" alt="Right-click" 
+ &lt;img id="[161 198 280 105 9 399]" src="./right_click.png" onclick="openModal(this.id)" alt="Right-click" 
  class="md-image-responsive" /&gt;
 &lt;/div&gt;&lt;/td&gt;
  &lt;/tr&gt;
@@ -65200,7 +65200,7 @@ Kanvas Designer offers three modes: Default, Pencil, and Connector, which behave
 
 
 &lt;div class="md__image"&gt;
- &lt;img id="[280 279 329 224 473 83]" src="./select.gif" onclick="openModal(this.id)" alt="Box selection" 
+ &lt;img id="[14 104 70 154 376 466]" src="./select.gif" onclick="openModal(this.id)" alt="Box selection" 
  class="md-image-responsive" /&gt;
 &lt;/div&gt;&lt;/td&gt;
  &lt;/tr&gt;
@@ -65216,7 +65216,7 @@ Kanvas Designer offers three modes: Default, Pencil, and Connector, which behave
 
 
 &lt;div class="md__image"&gt;
- &lt;img id="[477 174 85 194 143 392]" src="./scroll_up_down.gif" onclick="openModal(this.id)" alt="Scroll" 
+ &lt;img id="[343 232 334 476 383 65]" src="./scroll_up_down.gif" onclick="openModal(this.id)" alt="Scroll" 
  class="md-image-responsive" /&gt;
 &lt;/div&gt;&lt;/td&gt;
  &lt;/tr&gt;
@@ -65232,7 +65232,7 @@ Kanvas Designer offers three modes: Default, Pencil, and Connector, which behave
 
 
 &lt;div class="md__image"&gt;
- &lt;img id="[116 156 229 323 439 485]" src="./zoom_in_out.gif" onclick="openModal(this.id)" alt="Zoom" 
+ &lt;img id="[377 199 47 51 71 177]" src="./zoom_in_out.gif" onclick="openModal(this.id)" alt="Zoom" 
  class="md-image-responsive" /&gt;
 &lt;/div&gt;&lt;/td&gt;
  &lt;/tr&gt;
@@ -65248,7 +65248,7 @@ Kanvas Designer offers three modes: Default, Pencil, and Connector, which behave
 
 
 &lt;div class="md__image"&gt;
- &lt;img id="[16 34 242 142 301 442]" src="./scroll_left_right.gif" onclick="openModal(this.id)" alt="Scroll left/right" 
+ &lt;img id="[110 332 474 494 46 9]" src="./scroll_left_right.gif" onclick="openModal(this.id)" alt="Scroll left/right" 
  class="md-image-responsive" /&gt;
 &lt;/div&gt;&lt;/td&gt;
  &lt;/tr&gt;
@@ -65273,7 +65273,7 @@ Kanvas Designer offers three modes: Default, Pencil, and Connector, which behave
 
 
 &lt;div class="md__image"&gt;
- &lt;img id="[75 231 500 15 97 159]" src="./overview.png" onclick="openModal(this.id)" alt="Shapes Introduction" 
+ &lt;img id="[364 133 289 69 192 286]" src="./overview.png" onclick="openModal(this.id)" alt="Shapes Introduction" 
  class="md-image-responsive" /&gt;
 &lt;/div&gt;&lt;/p&gt;
 &lt;p&gt;The whiteboarding feature introduces versatile, freestyle drawing capabilities within Kanvas. Enabling the whiteboard feature augments your ability to diagram with a suite of predefined shapes, and pen and pencil annotation, allowing you full freedom of expression of your engineering diagrams.&lt;/p&gt;
@@ -65390,7 +65390,7 @@ Kanvas Designer offers three modes: Default, Pencil, and Connector, which behave
 
 
 &lt;div class="md__image"&gt;
- &lt;img id="[378 192 162 57 450 126]" src="./kanvas/getting-started/images/deploy-designs/success-deploy.png" onclick="openModal(this.id)" alt="success-deploy" 
+ &lt;img id="[380 300 107 427 211 409]" src="./kanvas/getting-started/images/deploy-designs/success-deploy.png" onclick="openModal(this.id)" alt="success-deploy" 
  class="md-image-responsive" /&gt;
 &lt;/div&gt;&lt;/p&gt;
 
@@ -65409,7 +65409,7 @@ Kanvas Designer offers three modes: Default, Pencil, and Connector, which behave
 
 
 &lt;div class="md__image"&gt;
- &lt;img id="[247 46 496 229 116 36]" src="./kanvas/getting-started/images/deploy-designs/missing-ns.png" onclick="openModal(this.id)" alt="missing-ns" 
+ &lt;img id="[327 251 283 420 400 109]" src="./kanvas/getting-started/images/deploy-designs/missing-ns.png" onclick="openModal(this.id)" alt="missing-ns" 
  class="md-image-responsive" /&gt;
 &lt;/div&gt;&lt;/p&gt;</description></item><item><title>Integrating Assessments in the Academy</title><link>/cloud/academy/creating-content/integrating-assessments-in-the-academy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/cloud/academy/creating-content/integrating-assessments-in-the-academy/</guid><description>&lt;p&gt;&lt;a href="https://cloud.layer5.io/academy/"&gt;Layer5 Cloud Academy&lt;/a&gt; implements &lt;strong&gt;Learning Paths&lt;/strong&gt;, &lt;strong&gt;Challenges&lt;/strong&gt;, and &lt;strong&gt;Certifications&lt;/strong&gt; to enrich the learner experience. We support multi-level assessments to guide and evaluate progress. The content structure is hierarchical and modular, enabling scalable learning design.&lt;/p&gt;
 &lt;p&gt;Think of it as a &lt;strong&gt;botanical garden&lt;/strong&gt;:&lt;/p&gt;
@@ -65456,7 +65456,7 @@ Kanvas Designer offers three modes: Default, Pencil, and Connector, which behave
 
 
 &lt;div class="md__image"&gt;
- &lt;img id="[473 143 320 121 169 164]" src="./cloud/identity/users/org_invite.png" onclick="openModal(this.id)" alt="User Management options" 
+ &lt;img id="[490 2 206 487 369 5]" src="./cloud/identity/users/org_invite.png" onclick="openModal(this.id)" alt="User Management options" 
  class="md-image-responsive" /&gt;
 &lt;/div&gt;&lt;/p&gt;
 
@@ -65477,7 +65477,7 @@ Kanvas Designer offers three modes: Default, Pencil, and Connector, which behave
 
 
 &lt;div class="md__image"&gt;
- &lt;img id="[499 217 50 497 117 449]" src="./kanvas/getting-started/images/working-with-components/configuration-panel.png" onclick="openModal(this.id)" alt="configuration-panel" 
+ &lt;img id="[61 468 216 215 376 160]" src="./kanvas/getting-started/images/working-with-components/configuration-panel.png" onclick="openModal(this.id)" alt="configuration-panel" 
  class="md-image-responsive" /&gt;
 &lt;/div&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Steps to Configure Components:&lt;/strong&gt;&lt;/p&gt;
@@ -65512,7 +65512,7 @@ Kanvas Designer offers three modes: Default, Pencil, and Connector, which behave
 
 
 &lt;div class="md__image"&gt;
- &lt;img id="[244 121 491 456 178 458]" src="./images/academy-admin.svg" onclick="openModal(this.id)" alt="Academy Admin Role" 
+ &lt;img id="[465 401 319 352 375 33]" src="./images/academy-admin.svg" onclick="openModal(this.id)" alt="Academy Admin Role" 
  class="md-image-responsive" /&gt;
 &lt;/div&gt;&lt;/p&gt;</description></item><item><title>Building Certifications</title><link>/cloud/academy/creating-content/building-certifications/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/cloud/academy/creating-content/building-certifications/</guid><description>&lt;p&gt;In &lt;a href="https://cloud.layer5.io/academy/"&gt;Layer5 Academy&lt;/a&gt;, a &lt;strong&gt;Certification&lt;/strong&gt; is a formal assessment designed to validate a learner&amp;rsquo;s professional skills in a specific domain. Unlike a Learning Path, which guides a user through a curriculum, a Certification&amp;rsquo;s primary goal is evaluation.&lt;/p&gt;
 &lt;p&gt;The successful completion of a Certification results in an official, shareable &lt;strong&gt;Certificate of Completion&lt;/strong&gt; and a valuable badge, signifying a verified level of proficiency.&lt;/p&gt;
@@ -65524,7 +65524,7 @@ Kanvas Designer offers three modes: Default, Pencil, and Connector, which behave
 
 
 &lt;div class="md__image"&gt;
- &lt;img id="[160 402 465 490 349 188]" src="./images/index-page.png" onclick="openModal(this.id)" alt="example image" 
+ &lt;img id="[99 140 260 182 295 181]" src="./images/index-page.png" onclick="openModal(this.id)" alt="example image" 
  class="md-image-responsive" /&gt;
 &lt;/div&gt;&lt;/p&gt;
 
@@ -65550,7 +65550,7 @@ Kanvas Designer offers three modes: Default, Pencil, and Connector, which behave
 
 
 &lt;div class="md__image"&gt;
- &lt;img id="[412 194 387 497 290 98]" src="./kanvas/getting-started/images/deploy-designs/clone-design.gif" onclick="openModal(this.id)" alt="Copy of a Design" 
+ &lt;img id="[53 28 162 108 220 5]" src="./kanvas/getting-started/images/deploy-designs/clone-design.gif" onclick="openModal(this.id)" alt="Copy of a Design" 
  class="md-image-responsive" /&gt;
 &lt;/div&gt;&lt;/p&gt;</description></item><item><title>Default User Permissions</title><link>/cloud/identity/users/default-permissions/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/cloud/identity/users/default-permissions/</guid><description>&lt;table class="td-initial"&gt;
  &lt;thead&gt;
@@ -65689,7 +65689,7 @@ The Instance Details tab is accessible when you select a specific Kubernetes res
 
 
 &lt;div class="md__image"&gt;
- &lt;img id="[224 91 471 63 428 391]" src="./kanvas/operator/images/Views.svg" onclick="openModal(this.id)" alt="Operator Views" 
+ &lt;img id="[51 464 19 43 224 393]" src="./kanvas/operator/images/Views.svg" onclick="openModal(this.id)" alt="Operator Views" 
  class="md-image-responsive" /&gt;
 &lt;/div&gt;&lt;/p&gt;
 
@@ -65721,7 +65721,7 @@ creating learning paths, challenges, and certifications by collecting all necess
 
 
 &lt;div class="md__image"&gt;
- &lt;img id="[158 391 104 126 265 187]" src="images/template-creator.png" onclick="openModal(this.id)" alt="Academy Content Template Creator" 
+ &lt;img id="[46 263 348 301 22 187]" src="images/template-creator.png" onclick="openModal(this.id)" alt="Academy Content Template Creator" 
  class="md-image-responsive" /&gt;
 &lt;/div&gt;&lt;/p&gt;
 &lt;ol&gt;
@@ -65806,7 +65806,7 @@ Choose the option that matches your workflow (see table below).&lt;/li&gt;
 
 
 &lt;div class="md__image"&gt;
- &lt;img id="[336 489 225 462 431 232]" src="./export-modal.gif" onclick="openModal(this.id)" alt="Export Icon" 
+ &lt;img id="[130 451 75 264 163 263]" src="./export-modal.gif" onclick="openModal(this.id)" alt="Export Icon" 
  class="md-image-responsive" /&gt;
 &lt;/div&gt;&lt;/p&gt;</description></item><item><title>Publishing Designs</title><link>/kanvas/designer/publishing-designs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/kanvas/designer/publishing-designs/</guid><description>&lt;p&gt;Publishing a design makes it visible to all Meshery Cloud users and anonymous visitors. This guide explains the publishing workflow, state management, permissions, and operational constraints.&lt;/p&gt;
 
@@ -65846,7 +65846,159 @@ Choose the option that matches your workflow (see table below).&lt;/li&gt;
 &lt;p&gt;&lt;strong&gt;Acknowledgment:&lt;/strong&gt; You&amp;rsquo;ll receive notifications about badges you&amp;rsquo;ve been awarded and related updates.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Approval Requests:&lt;/strong&gt; You&amp;rsquo;ll be notified about Workspace, Account, Permissions, Catalog&lt;/p&gt;</description></item><item><title>v1.0.6-1</title><link>/kanvas/reference/releases/v1.0.6-1/</link><pubDate>Thu, 09 Apr 2026 06:46:48 +0000</pubDate><guid>/kanvas/reference/releases/v1.0.6-1/</guid><description>&lt;h2 id="whats-new" class="heading-link"&gt;
+&lt;p&gt;&lt;strong&gt;Approval Requests:&lt;/strong&gt; You&amp;rsquo;ll be notified about Workspace, Account, Permissions, Catalog&lt;/p&gt;</description></item><item><title>v1.0.7-2</title><link>/kanvas/reference/releases/v1.0.7-2/</link><pubDate>Mon, 13 Apr 2026 17:36:14 +0000</pubDate><guid>/kanvas/reference/releases/v1.0.7-2/</guid><description>&lt;h2 id="whats-new" class="heading-link"&gt;
+ What&amp;rsquo;s New
+ &lt;a href="#whats-new" class="heading-anchor" aria-label="Permalink to this heading"&gt;🔗&lt;/a&gt;
+&lt;/h2&gt;
+
+&lt;h2 id="-general" class="heading-link"&gt;
+ 🔤 General
+ &lt;a href="#-general" class="heading-anchor" aria-label="Permalink to this heading"&gt;🔗&lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;[React 19] Fix hooks ordering violations and ref misuse @leecalcote (#4160)&lt;/li&gt;
+&lt;li&gt;chore(deps): remove unused @babel/eslint-* packages @leecalcote (#4153)&lt;/li&gt;
+&lt;li&gt;docs: expand E2E test README with framework assessment and profiles @leecalcote (#4161)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="-operator" class="heading-link"&gt;
+ 🕸️ Operator
+ &lt;a href="#-operator" class="heading-anchor" aria-label="Permalink to this heading"&gt;🔗&lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fix Golang Plugin k8s deps compatibility @leecalcote (#4162)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="-documentation" class="heading-link"&gt;
+ 📖 Documentation
+ &lt;a href="#-documentation" class="heading-anchor" aria-label="Permalink to this heading"&gt;🔗&lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;docs: consolidate tests/README.md into developer guide @leecalcote (#4164)&lt;/li&gt;
+&lt;li&gt;Document performance review of autopan extension @leecalcote (#4147)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="-contributors" class="heading-link"&gt;
+ 👨🏽‍💻 Contributors
+ &lt;a href="#-contributors" class="heading-anchor" aria-label="Permalink to this heading"&gt;🔗&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Thank you to our contributors for making this release possible:
+@aabidsofi19, @l5io, @leecalcote and @yi-nuo426&lt;/p&gt;</description></item><item><title>v1.0.7</title><link>/cloud/reference/releases/v1.0.7/</link><pubDate>Mon, 13 Apr 2026 16:56:59 +0000</pubDate><guid>/cloud/reference/releases/v1.0.7/</guid><description>&lt;ul&gt;
+&lt;li&gt;refactor(workspace_handler): update GetWorkspaceByID response return one workspace instead of a page, use schema definition @lekaf974 (#5010)&lt;/li&gt;
+&lt;li&gt;feat(dashboard): enforce minimum size constraints for widgets @Rajesh-Nagarajan-11 (#5011)&lt;/li&gt;
+&lt;li&gt;[Chore]: Update to Sistent v0.18.4 @l5io (#5008)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="-contributors" class="heading-link"&gt;
+ 👨🏽‍💻 Contributors
+ &lt;a href="#-contributors" class="heading-anchor" aria-label="Permalink to this heading"&gt;🔗&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;Thank you to our contributors for making this release possible:
+@Rajesh-Nagarajan-11, @hortison, @l5io, @leecalcote, @lekaf974, @meshery-ci, @pontusringblom and @yi-nuo426&lt;/p&gt;</description></item><item><title>v1.0.7-1</title><link>/kanvas/reference/releases/v1.0.7-1/</link><pubDate>Sun, 12 Apr 2026 15:43:16 +0000</pubDate><guid>/kanvas/reference/releases/v1.0.7-1/</guid><description>&lt;h2 id="whats-new" class="heading-link"&gt;
+ What&amp;rsquo;s New
+ &lt;a href="#whats-new" class="heading-anchor" aria-label="Permalink to this heading"&gt;🔗&lt;/a&gt;
+&lt;/h2&gt;
+
+&lt;h2 id="-general" class="heading-link"&gt;
+ 🔤 General
+ &lt;a href="#-general" class="heading-anchor" aria-label="Permalink to this heading"&gt;🔗&lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;No changes&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="-contributors" class="heading-link"&gt;
+ 👨🏽‍💻 Contributors
+ &lt;a href="#-contributors" class="heading-anchor" aria-label="Permalink to this heading"&gt;🔗&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Thank you to our contributors for making this release possible:
+@l5io&lt;/p&gt;</description></item><item><title>v1.0.6-2</title><link>/kanvas/reference/releases/v1.0.6-2/</link><pubDate>Sat, 11 Apr 2026 12:36:24 +0000</pubDate><guid>/kanvas/reference/releases/v1.0.6-2/</guid><description>&lt;h2 id="whats-new" class="heading-link"&gt;
+ What&amp;rsquo;s New
+ &lt;a href="#whats-new" class="heading-anchor" aria-label="Permalink to this heading"&gt;🔗&lt;/a&gt;
+&lt;/h2&gt;
+
+&lt;h2 id="-general" class="heading-link"&gt;
+ 🔤 General
+ &lt;a href="#-general" class="heading-anchor" aria-label="Permalink to this heading"&gt;🔗&lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fix proxy-revoked crash \Cannot perform &amp;lsquo;get&amp;rsquo; on a proxy that has been revoked\ @leecalcote (#4152)&lt;/li&gt;
+&lt;li&gt;Fix make targets that use sibling-repo relative paths for git worktree support @leecalcote (#4150)&lt;/li&gt;
+&lt;li&gt;Fix z-index for newly created components and GraphQL worktrees @leecalcote (#4149)&lt;/li&gt;
+&lt;li&gt;fix(operator): plainify draft refs in saveView and updateViewRoute @leecalcote (#4144)&lt;/li&gt;
+&lt;li&gt;Fix z-index for newly created components appearing below existing ones @&lt;a href="https://github.com/apps/copilot-swe-agent"&gt;copilot-swe-agent[bot]&lt;/a&gt; (#3915)&lt;/li&gt;
+&lt;li&gt;sistent 18.4 and test updates @marblom007 (#4133)&lt;/li&gt;
+&lt;li&gt;test: add unit tests for adaptive mode actors, model, and guidance @marblom007 (#4123)&lt;/li&gt;
+&lt;li&gt;test: add unit tests for render mode constants, thresholds, and integration @marblom007 (#4122)&lt;/li&gt;
+&lt;li&gt;test: add unit tests for render mode styles, badges, and features @marblom007 (#4121)&lt;/li&gt;
+&lt;li&gt;feat: add user guidance system for performance optimization suggestions @leecalcote (#4115)&lt;/li&gt;
+&lt;li&gt;feat: implement View Only render mode @leecalcote (#4116)&lt;/li&gt;
+&lt;li&gt;fix: wire adaptive mode event pipeline between actors (#3923) @leecalcote (#4118)&lt;/li&gt;
+&lt;li&gt;feat: add adaptive mode toggle to RenderModeSwitcher UI @leecalcote (#4114)&lt;/li&gt;
+&lt;li&gt;feat: add performance monitor actor for render latency sampling @leecalcote (#4112)&lt;/li&gt;
+&lt;li&gt;perf: compound node rendering optimizations @marblom007 (#4124)&lt;/li&gt;
+&lt;li&gt;feat: add adaptive mode actor for automatic render mode switching @leecalcote (#4113)&lt;/li&gt;
+&lt;li&gt;feat: wire adaptive mode pipeline and add transition polish @leecalcote (#4117)&lt;/li&gt;
+&lt;li&gt;Add performance monitor actor for render latency sampling @marblom007 (#4130)&lt;/li&gt;
+&lt;li&gt;test: skip flaky duplicate-evaluation e2e test @leecalcote (#4119)&lt;/li&gt;
+&lt;li&gt;fix: add explicit markup prop to Mention for React 19 compatibility @arjunmehta-git (#4127)&lt;/li&gt;
+&lt;li&gt;fix: lazy-init edge handle tooltip to survive Cytoscape mount race @marblom007 (#4125)&lt;/li&gt;
+&lt;li&gt;test: stabilize canvas node selection @marblom007 (#4126)&lt;/li&gt;
+&lt;li&gt;feat: implement medium render mode as distinct middle tier @leecalcote (#4110)&lt;/li&gt;
+&lt;li&gt;fix: correct guard condition in design validation event publisher @leecalcote (#4120)&lt;/li&gt;
+&lt;li&gt;feat: complete wireframe mode rendering @leecalcote (#4111)&lt;/li&gt;
+&lt;li&gt;Susan is kaput. fix: resolve XState actor communication error in validation @arjunmehta-git (#4104)&lt;/li&gt;
+&lt;li&gt;feat: expand render mode type system for adaptive transitions @leecalcote (#4109)&lt;/li&gt;
+&lt;li&gt;fix: align Help Center grid cards @arjunmehta-git (#4105)&lt;/li&gt;
+&lt;li&gt;test: improve duplicate component evaluation test reliability @arjunmehta-git (#4103)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="-designer" class="heading-link"&gt;
+ 🖌️ Designer
+ &lt;a href="#-designer" class="heading-anchor" aria-label="Permalink to this heading"&gt;🔗&lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Refactor ActionToolbar for mobile actions and cleanup @fitzergerald (#4140)&lt;/li&gt;
+&lt;li&gt;fix: replace @syncedstore/core with immer-yjs to fix collaboration state corruption @marblom007 (#4131)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="-bug-fixes" class="heading-link"&gt;
+ 🐛 Bug Fixes
+ &lt;a href="#-bug-fixes" class="heading-anchor" aria-label="Permalink to this heading"&gt;🔗&lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fix Component style editing tooltip not showing up @aabidsofi19 (#4156)&lt;/li&gt;
+&lt;li&gt;fix(tests): fail Playwright auth setup fast on invalid credentials @leecalcote (#4155)&lt;/li&gt;
+&lt;li&gt;chore(deps): bump @sistent/sistent 0.18.3 → 0.18.4 @leecalcote (#4151)&lt;/li&gt;
+&lt;li&gt;fix(sweettea): harden actor lifecycle safety across store layer @leecalcote (#4142)&lt;/li&gt;
+&lt;li&gt;fix: replace @syncedstore/core with immer-yjs to fix collaboration state corruption @marblom007 (#4131)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="-maintenance" class="heading-link"&gt;
+ 🧰 Maintenance
+ &lt;a href="#-maintenance" class="heading-anchor" aria-label="Permalink to this heading"&gt;🔗&lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;improvement(tests): faster and more precise Playwright E2E execution @leecalcote (#4146)&lt;/li&gt;
+&lt;li&gt;build: clean up residual webpack references after rspack migration @leecalcote (#4129)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="-documentation" class="heading-link"&gt;
+ 📖 Documentation
+ &lt;a href="#-documentation" class="heading-anchor" aria-label="Permalink to this heading"&gt;🔗&lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;docs: refresh Kanvas Developer Guide for current codebase @leecalcote (#4145)&lt;/li&gt;
+&lt;li&gt;chore: remove dead @layer5/cytoscape-node-html-label dependency @marblom007 (#4134)&lt;/li&gt;
+&lt;li&gt;build: clean up residual webpack references after rspack migration @leecalcote (#4129)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="-contributors" class="heading-link"&gt;
+ 👨🏽‍💻 Contributors
+ &lt;a href="#-contributors" class="heading-anchor" aria-label="Permalink to this heading"&gt;🔗&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Thank you to our contributors for making this release possible:
+@aabidsofi19, @arjunmehta-git, @fitzergerald, @hortison, @jamieplu, @l5io, @leecalcote, @marblom007, @miacycle, @simihablo, @winkletinkle, @yi-nuo426 and &lt;a href="https://github.com/apps/copilot-swe-agent"&gt;copilot-swe-agent[bot]&lt;/a&gt;&lt;/p&gt;</description></item><item><title>v1.0.6-1</title><link>/kanvas/reference/releases/v1.0.6-1/</link><pubDate>Thu, 09 Apr 2026 06:46:48 +0000</pubDate><guid>/kanvas/reference/releases/v1.0.6-1/</guid><description>&lt;h2 id="whats-new" class="heading-link"&gt;
  What&amp;rsquo;s New
  &lt;a href="#whats-new" class="heading-anchor" aria-label="Permalink to this heading"&gt;🔗&lt;/a&gt;
 &lt;/h2&gt;
