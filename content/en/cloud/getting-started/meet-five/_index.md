@@ -6,9 +6,6 @@ linkTitle: Meet Five
 weight: 0
 draft: true
 categories: [About]
-aliases:
-  - /cloud/about/
-  - /cloud/getting-started/about/
 
 ---
 
