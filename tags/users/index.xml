@@ -44,7 +44,7 @@
 
 
 &lt;div class="md__image"&gt;
- &lt;img id="[55 281 154 204 159 122]" src="images/org_invite.png" onclick="openModal(this.id)" alt="User Management options" 
+ &lt;img id="[417 437 60 198 295 15]" src="images/org_invite.png" onclick="openModal(this.id)" alt="User Management options" 
  class="md-image-responsive" /&gt;
 &lt;/div&gt;&lt;/p&gt;
 
