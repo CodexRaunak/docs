@@ -19,7 +19,7 @@
   This script is generated when exporting a design from kanvas.new.
   The `src` attribute specifies the script location, as provided by the user. 
 -->
-{{ $script := .Get "src" }}
+{{ $script := .Get "src" | relURL }}
 
 <!-- 
   Retrieve the unique ID for the embedded Meshery design. 
