@@ -16,7 +16,7 @@ other = "Search"
 [ui_in]
 other = "in"
 
-# Used in sentences such as "All Tags"
+# Used in sentences 
 [ui_all]
 other = "all"
 
