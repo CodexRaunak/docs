@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Roles on Layer5 Documentation</title><link>/cloud/concepts/identity-and-security/roles/</link><description>Recent content in Roles on Layer5 Documentation</description><generator>Hugo</generator><language>en</language><atom:link href="/cloud/concepts/identity-and-security/roles/index.xml" rel="self" type="application/rss+xml"/><item><title>Default Organization Roles</title><link>/cloud/concepts/identity-and-security/roles/organization-roles/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/cloud/concepts/identity-and-security/roles/organization-roles/</guid><description>&lt;div class="td-card-group card-group p-0 mb-4"&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Roles on Layer5 Documentation</title><link>/docs/cloud/concepts/identity-and-security/roles/</link><description>Recent content in Roles on Layer5 Documentation</description><generator>Hugo</generator><language>en</language><atom:link href="/docs/cloud/concepts/identity-and-security/roles/index.xml" rel="self" type="application/rss+xml"/><item><title>Default Organization Roles</title><link>/docs/cloud/concepts/identity-and-security/roles/organization-roles/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/cloud/concepts/identity-and-security/roles/organization-roles/</guid><description>&lt;div class="td-card-group card-group p-0 mb-4"&gt;
 &lt;div class="td-card card border me-4"&gt;
 &lt;div class="card-header"&gt;
  Default Organization Roles
@@ -37,7 +37,7 @@
 &lt;ul&gt;
 &lt;li&gt;Creation of new organization or User Account creation&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;How many instances of these roles?&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Default Workspace Roles</title><link>/cloud/concepts/identity-and-security/roles/workspace-roles/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/cloud/concepts/identity-and-security/roles/workspace-roles/</guid><description>&lt;div class="td-card-group card-group p-0 mb-4"&gt;
+&lt;p&gt;&lt;strong&gt;How many instances of these roles?&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Default Workspace Roles</title><link>/docs/cloud/concepts/identity-and-security/roles/workspace-roles/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/cloud/concepts/identity-and-security/roles/workspace-roles/</guid><description>&lt;div class="td-card-group card-group p-0 mb-4"&gt;
 &lt;div class="td-card card border me-4"&gt;
 &lt;div class="card-body"&gt;
  &lt;p class="card-text"&gt;
@@ -73,7 +73,7 @@
 &lt;ul&gt;
 &lt;li&gt;Creation of a new workspace&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;How many instances of these roles?&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Default Team Roles</title><link>/cloud/concepts/identity-and-security/roles/team-roles/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/cloud/concepts/identity-and-security/roles/team-roles/</guid><description>&lt;div class="td-card-group card-group p-0 mb-4"&gt;
+&lt;p&gt;&lt;strong&gt;How many instances of these roles?&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Default Team Roles</title><link>/docs/cloud/concepts/identity-and-security/roles/team-roles/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/cloud/concepts/identity-and-security/roles/team-roles/</guid><description>&lt;div class="td-card-group card-group p-0 mb-4"&gt;
 &lt;div class="td-card card border me-4"&gt;
 &lt;div class="card-header"&gt;
  Default Team Roles
@@ -116,7 +116,7 @@
 &lt;li&gt;Min: 1, Max: many (based on plan)&lt;/li&gt;
 &lt;li&gt;Only first Team Admin would be the owner&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Who can remove assignment of this role?&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Default User Role</title><link>/cloud/concepts/identity-and-security/roles/user-role/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/cloud/concepts/identity-and-security/roles/user-role/</guid><description>&lt;div class="td-card-group card-group p-0 mb-4"&gt;
+&lt;p&gt;&lt;strong&gt;Who can remove assignment of this role?&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Default User Role</title><link>/docs/cloud/concepts/identity-and-security/roles/user-role/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/cloud/concepts/identity-and-security/roles/user-role/</guid><description>&lt;div class="td-card-group card-group p-0 mb-4"&gt;
 &lt;div class="td-card card border me-4"&gt;
 &lt;div class="card-header"&gt;
  Default User Role
@@ -154,7 +154,7 @@
 &lt;ul&gt;
 &lt;li&gt;Automatically assigned to members on joining an Organization.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;How many instances of these roles?&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Default Academy Roles</title><link>/cloud/concepts/identity-and-security/roles/academy-roles/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/cloud/concepts/identity-and-security/roles/academy-roles/</guid><description>&lt;div class="td-card-group card-group p-0 mb-4"&gt;
+&lt;p&gt;&lt;strong&gt;How many instances of these roles?&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Default Academy Roles</title><link>/docs/cloud/concepts/identity-and-security/roles/academy-roles/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/cloud/concepts/identity-and-security/roles/academy-roles/</guid><description>&lt;div class="td-card-group card-group p-0 mb-4"&gt;
 &lt;div class="td-card card border me-4"&gt;
 &lt;div class="card-header"&gt;
  Academy Administrator
